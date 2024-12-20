@@ -18,6 +18,10 @@ public class Program {
 		int d = a + b + c;
 		
 		System.out.println("Addition : "+d);
+		
+		int avg = (a + b + c) / 3;
+		
+		System.out.println("Average : " + avg);
 	}
 
 }
